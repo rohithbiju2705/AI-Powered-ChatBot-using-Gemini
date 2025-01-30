@@ -16,9 +16,3 @@ Gemini-AI is a chatbot application built using Streamlit and the Gemini API to p
 - Python 3.7+
 - Virtual environment (recommended)
 
-### Installation:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/gemini-ai.git
-   cd gemini-ai
